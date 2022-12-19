@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "description": "The main function of a CCTV camera is to capture light and convert it into a video signal",
+      "id": "1",
+      "image": "https://m.media-amazon.com/images/I/71ZEzubbMuL._SL1500_.jpg",
+      "price": 2000,
+      "title": "Cp  security plus camera"
+    },
+
+    {
+      "description": "Lipton is the world’s number 1 tea brand*. In India, Lipton is about connected wellbeing that encourages ",
+      "id": "2",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40024622_13-lipton-honey-lemon-green-tea-bags.jpg",
+      "price": 500,
+      "title": "lipton green tea"
+    },
+
+    {
+      "description": "Enjoy the flavors of true denim with this awesome pair of light blue jeans from Kotty",
+      "id": "3",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIcVqvKeYM1mQaP9Q9E8qfWfpFAZDNOmTlf0Wxei1I46LrTi5rjqI4cYLkhar3Ad4wCOJ-7CPCV7lxpN3p6C4Ml0gBvEuFI5ReL2o2Ybs8lLBcr5WNua2SCA",
+      "price": 699,
+      "title": "jeans Pant"
+    },
+
+    {
+      "description": "The all-new iPhone 14 Pro and iPhone 14. Buy now. Your photo. Your font. Your widgets. Your iPhone. ",
+      "id": "4",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026582322",
+      "price": 79900,
+      "title": "iPhone 14"
+    },
+
+    {
+      "description": "13.6 Inch Liquid Retina Display, LED-backlit display with IPS technology",
+      "id": "5",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l4hcx3k0/computer/e/l/j/macbook-air-thin-and-light-laptop-apple-original-imagfdeqqe6kkuxw.jpeg?q=70",
+      "price": 112990,
+      "title": "APPLE 2022 MacBook AIR M2"
+    }
+
+
+  ]
+  
+}
